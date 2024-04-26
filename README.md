@@ -22,7 +22,7 @@ This HTML project uses JavaScript for functionality and Bootstrap for styling to
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/javascript-calculator.git`
+1. Clone the repository: `git clone https://github.com/nknithi/javascript-calculator.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
